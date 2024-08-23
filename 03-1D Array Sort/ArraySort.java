@@ -3,7 +3,7 @@ public class ArraySort
  public static void main(String[] args)
  {
    int i,j;
-   int[] arr=new int[]{10,7,8,20,37,1,3,9,43,5};
+   int[] arr=new int[]{10,7,8,20,37,1,3,9,43,5,7};
 
    System.out.println("Array After Sorting");
    
