@@ -7,7 +7,7 @@ public class ArraySortUser
    Scanner sc=new Scanner(System.in);
    System.out.print("Enter No. of Elements in Array : ");
    int n = sc.nextInt();
-   int[] arr=new int[n];
+   int[] arr=new int[n2];
    System.out.print("Enter Elements : ");
    for(i=0;i<n;i++)
    {
