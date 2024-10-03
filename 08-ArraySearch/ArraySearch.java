@@ -4,7 +4,7 @@ public class ArraySearch{
 		int n,x;
 		int location=-1;
 		Scanner s= new Scanner(System.in);
-		System.out.print("Enter Array Size : ");
+		System.out.print("Enter Array Size: ");
 		n=s.nextInt();
 
 		int[] a=new int[n];
