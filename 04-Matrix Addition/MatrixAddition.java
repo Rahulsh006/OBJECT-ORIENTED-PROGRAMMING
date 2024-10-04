@@ -5,7 +5,7 @@ public class MatrixAddition
     {
       int i,j;
       Scanner sc= new Scanner(System.in);    
-      System.out.print("Enter Size of The Matrix [mxn]  : ");  
+      System.out.print("Enter Size of Thee Matrix [mxn]  : ");  
       int m= sc.nextInt();
       int n= sc.nextInt();
 
