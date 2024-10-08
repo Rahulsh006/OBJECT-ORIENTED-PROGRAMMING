@@ -10,7 +10,7 @@ class CPU{
 		String manufacturer;
 		processor(int n,String m){
 			number_of_cores=n;
-			manufacturer=m1;
+			manufacturer=m15;
 		}
 	}
 	static class RAM{
