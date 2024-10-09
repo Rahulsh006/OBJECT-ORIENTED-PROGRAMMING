@@ -5,7 +5,7 @@ public class StringManipulation {
         Scanner scanner = new Scanner(System.in);
 
         // Read a string from the user
-        System.out.print("Enter A String: ");
+        System.out.print("Enter A String:::");
         String inputString = scanner.nextLine();
 
         // String length
