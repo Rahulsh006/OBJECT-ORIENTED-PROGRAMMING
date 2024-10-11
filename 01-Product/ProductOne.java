@@ -14,7 +14,7 @@ public class ProductOne
         ProductOne p2=new ProductOne();
         ProductOne p3=new ProductOne();
         p1.readdata ("Santoor","Batch100",500);
-        p2.readdata ("Lux","Batch101",60);
+        p2.readdata ("Lux","Batch101",600);
         p3.readdata ("Fiama","Batch102",40);
 
         if (p1.pprice<p2.pprice && p1.pprice<p3.pprice)
