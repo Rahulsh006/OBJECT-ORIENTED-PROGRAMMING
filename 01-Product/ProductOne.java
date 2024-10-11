@@ -13,7 +13,7 @@ public class ProductOne
         ProductOne p1=new ProductOne();
         ProductOne p2=new ProductOne();
         ProductOne p3=new ProductOne();
-        p1.readdata ("Santoor","Batch100",50);
+        p1.readdata ("Santoor","Batch100",500);
         p2.readdata ("Lux","Batch101",60);
         p3.readdata ("Fiama","Batch102",40);
 
