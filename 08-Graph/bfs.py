@@ -5,7 +5,7 @@ def bfs(adjacencyList, s):
       output: the bfs.\n
     """
 
-    visited = [False] * (max(adjacencyList) + 1)
+    visited = [False] * (max(adjacencyList) + 2)
     visited_queue = []
 
     visited_queue.append(s)
