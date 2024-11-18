@@ -29,7 +29,7 @@ public class EmployeeArray{
         Employee[] employees = new Employee[n];
         for(int i=0;i<n;i++){
             System.out.print("\nEnter Details of Employee "+(i+1));
-            System.out.print("\n----------------------------");
+            System.out.print("\n--------------------------------");
             System.out.print("\nEmployee Number : ");
             int e_number = S1.nextInt();
             System.out.print("Employee Name : ");
